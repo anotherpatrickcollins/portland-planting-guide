@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Portland Planting Information | ABOUT</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Load Tailwind CSS -->
+  <script src="https://cdn.tailwindcss.com"></script>
+  <!-- Load Inter Font -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', system-ui, sans-serif; }
+  </style>
+
+  <!-- Load Alpine.js for interactivity -->
+  <script src="https://unpkg.com/alpinejs" defer></script>
+  <!-- Load PapaParse for CSV parsing -->
+  <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+</head>
+<body class="bg-neutral-100 text-black min-h-screen p-4">
+  <div x-data="plantApp()" x-init="init" class="max-w-4xl mx-auto">
+    <h1 class="mb-2 text-3xl font-bold uppercase tracking-tight underline">About Portland Planting Information</h1>
+    <p class="mb-6 text-sm font-mono">A searchable and filterable guide to the timing, methods, and other notes about planting vegetables in Portland, Oregon or West of the Cascades. <a href="/about.html" class="text-pink-500 underline text-sm font-medium hover:text-black self-center">About this page.</a>
+</p>
+</body>
+</html>
