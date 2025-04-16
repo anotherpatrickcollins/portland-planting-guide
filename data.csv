@@ -1,0 +1,439 @@
+Month,PlantingMethod,Crop,BestTimesToPlant,BestMethod,FallHarvest,Notes
+April,Seed Indoor,Basil,No,No,No,
+April,Seed Indoor,Cucumber,No,No,No,
+April,Seed Indoor,Melon,No,No,No,
+April,Seed Indoor,Pumpkin,No,No,No,
+April,Seed Indoor,Summer Squash,No,No,No,
+April,Seed Indoor,Winter Squash,No,No,No,
+April,Seed Outdoor,Arugula,No,No,No,
+April,Seed Outdoor,Asian greens,No,No,No,
+April,Seed Outdoor,Asparagus,No,No,No,Crowns
+April,Seed Outdoor,Beets,Yes,Yes,No,
+April,Seed Outdoor,Broccoli,Yes,Yes,No,
+April,Seed Outdoor,Brussels sprouts,No,No,No,
+April,Seed Outdoor,Cabbage,Yes,Yes,No,Early Types
+April,Seed Outdoor,Carrots,Yes,Yes,No,Beginning Month
+April,Seed Outdoor,Cauliflower,Yes,Yes,No,
+April,Seed Outdoor,Celeriac,No,No,Yes,Mid Month
+April,Seed Outdoor,Celery,No,No,Yes,Mid Month
+April,Seed Outdoor,Chard,Yes,Yes,No,
+April,Seed Outdoor,Chives,No,No,No,
+April,Seed Outdoor,Choi,Yes,Yes,No,
+April,Seed Outdoor,Cilantro,Yes,Yes,No,
+April,Seed Outdoor,Collards,No,No,No,
+April,Seed Outdoor,Dill,No,No,No,
+April,Seed Outdoor,Endive,Yes,Yes,No,
+April,Seed Outdoor,Fennel,No,No,No,Bulbing
+April,Seed Outdoor,Jer. Artichoke,Yes,Yes,No,Tubers
+April,Seed Outdoor,Kale,No,No,No,
+April,Seed Outdoor,Kohlrabi,Yes,Yes,No,
+April,Seed Outdoor,Lettuce,Yes,Yes,No,
+April,Seed Outdoor,Mustard Greens,No,No,No,
+April,Seed Outdoor,Oregano,No,No,No,
+April,Seed Outdoor,Parsley,No,No,No,
+April,Seed Outdoor,Peas,No,No,No,Beginning Month
+April,Seed Outdoor,Potatoes,No,No,No,Tubers
+April,Seed Outdoor,Radicchio,No,No,No,
+April,Seed Outdoor,Radish,No,No,No,
+April,Seed Outdoor,Rosemary,No,No,No,
+April,Seed Outdoor,Sage,No,No,No,
+April,Seed Outdoor,Scallions,No,No,No,
+April,Seed Outdoor,Sorrel,No,No,No,
+April,Seed Outdoor,Spinach,Yes,Yes,No,
+April,Seed Outdoor,Turnips,Yes,Yes,No,
+April,Starts,Artichoke,Yes,Yes,No,
+April,Starts,Arugula,No,No,No,
+April,Starts,Asian Greens,No,No,No,
+April,Starts,Beets,No,No,No,
+April,Starts,Broccoli,Yes,Yes,No,
+April,Starts,Brussels Sprouts,No,No,No,
+April,Starts,Cabbage,Yes,Yes,No,Early Types
+April,Starts,Carrots,No,No,No,
+April,Starts,Cauliflower,Yes,Yes,No,
+April,Starts,Celeriac,Yes,Yes,No,Mid Month
+April,Starts,Celery,Yes,Yes,No,Mid Month
+April,Starts,Chard,No,No,No,
+April,Starts,Choi,No,No,No,
+April,Starts,Cilantro,No,No,No,
+April,Starts,Collards,No,No,No,
+April,Starts,Dill,No,No,No,
+April,Starts,Endive,Yes,Yes,No,
+April,Starts,Fennel,Yes,Yes,No,Bulbing
+April,Starts,Jer. Artichoke,Yes,Yes,No,
+April,Starts,Kale,Yes,Yes,No,
+April,Starts,Kohlrabi,No,No,No,
+April,Starts,Leeks,Yes,Yes,No,
+April,Starts,Lettuce,No,No,No,
+April,Starts,Mustard Greens,No,No,No,
+April,Starts,Peas,No,No,No,
+April,Starts,Radicchio,No,No,No,
+April,Starts,Salad greens,No,No,No,
+April,Starts,Scallions,No,No,No,
+April,Starts,Sorrel,No,No,No,
+April,Starts,Spinach,No,No,No,
+August,Seed Outdoor,Arugula,Yes,Yes,Yes,
+August,Seed Outdoor,Asian greens,No,No,Yes,
+August,Seed Outdoor,Beets,No,No,Yes,
+August,Seed Outdoor,Broccoli Raab,No,No,Yes,
+August,Seed Outdoor,Cabbage,Yes,Yes,Yes,"Early Types, Beginning Month"
+August,Seed Outdoor,Cauliflower,No,No,Yes,
+August,Seed Outdoor,Chard,Yes,Yes,Yes,Beginning Month
+August,Seed Outdoor,Chives,No,No,No,
+August,Seed Outdoor,Cilantro,No,No,Yes,
+August,Seed Outdoor,Collards,No,No,Yes,
+August,Seed Outdoor,Kale,No,No,Yes,
+August,Seed Outdoor,Lettuce,Yes,Yes,Yes,
+August,Seed Outdoor,Mustard greens,No,No,Yes,
+August,Seed Outdoor,Oregano,No,No,No,
+August,Seed Outdoor,Parsley,No,No,No,
+August,Seed Outdoor,Peas,No,No,Yes,
+August,Seed Outdoor,Radish,No,No,Yes,
+August,Seed Outdoor,Rosemary,No,No,No,
+August,Seed Outdoor,Sage,No,No,No,
+August,Seed Outdoor,Salad greens,No,No,Yes,
+August,Seed Outdoor,Spinach,Yes,Yes,Yes,Beginning Month
+August,Seed Outdoor,Swiss chard,No,No,Yes,
+August,Seed Outdoor,Turnips,No,No,Yes,
+August,Starts,Artichoke,No,No,Yes,
+August,Starts,Asian greens,No,No,Yes,
+August,Starts,Basil,No,No,Yes,Beginning Month
+August,Starts,Broccoli,No,No,Yes,Beginning Month
+August,Starts,Cabbage,No,No,Yes,Beginning Month
+August,Starts,Carrots,No,No,Yes,Beginning Month
+August,Starts,Cauliflower,No,No,Yes,Beginning Month
+August,Starts,Cilantro,No,No,Yes,
+August,Starts,Collards,No,No,Yes,Beginning Month
+August,Starts,Dill,No,No,Yes,Beginning Month
+August,Starts,Fennel,No,No,Yes,"Bulbing, Beginning Month"
+August,Starts,Kale,Yes,Yes,Yes,
+August,Starts,Leeks,No,No,Yes,
+August,Starts,Lettuce,No,No,Yes,
+August,Starts,Mustard greens,Yes,Yes,Yes,
+August,Starts,Salad greens,No,No,Yes,
+August,Starts,Scallions,No,No,Yes,
+August,Starts,Spinach,Yes,Yes,Yes,
+February,Seed Indoor,Artichoke,No,No,No,
+February,Seed Indoor,Asparagus,No,No,No,
+February,Seed Indoor,Broccoli,No,No,No,
+February,Seed Indoor,Cabbage,No,No,No,
+February,Seed Indoor,Cauliflower,No,No,No,
+February,Seed Indoor,Celeriac,No,No,No,
+February,Seed Indoor,Celery,No,No,No,
+February,Seed Indoor,Chard,No,No,No,
+February,Seed Indoor,Chives,No,No,No,
+February,Seed Indoor,Choi,No,No,No,
+February,Seed Indoor,Eggplant,Yes,Yes,No,Mid Month
+February,Seed Indoor,Endive,No,No,No,
+February,Seed Indoor,Kale,No,No,No,
+February,Seed Indoor,Kohlrabi,No,No,No,
+February,Seed Indoor,Leeks,Yes,Yes,No,
+February,Seed Indoor,Lettuce,No,No,No,
+February,Seed Indoor,Onions,Yes,Yes,No,
+February,Seed Indoor,Parsley,No,No,No,
+February,Seed Indoor,Peppers,Yes,Yes,No,Mid Month
+February,Seed Indoor,Tomatillo,No,No,No,
+February,Seed Indoor,Tomatoes,Yes,Yes,No,Mid Month
+February,Seed Outdoor,Arugula,Yes,Yes,,
+February,Seed Outdoor,Asparagus,Yes,Yes,,Crowns
+February,Seed Outdoor,Chives,No,No,No,
+February,Seed Outdoor,Cilantro,No,No,No,
+February,Seed Outdoor,Fava Beans,No,No,No,
+February,Seed Outdoor,Garlic,No,No,No,Cloves
+February,Seed Outdoor,Mustard Greens,No,No,No,
+February,Seed Outdoor,Onion Bunches,Yes,Yes,No,
+February,Seed Outdoor,Onion Sets,Yes,Yes,No,
+February,Seed Outdoor,Onions,Yes,Yes,No,
+February,Seed Outdoor,Oregano,No,No,No,
+February,Seed Outdoor,Parsley,No,No,No,
+February,Seed Outdoor,Peas,Yes,Yes,No,
+February,Seed Outdoor,Potatoes,No,No,No,Tubers
+February,Seed Outdoor,Radish,No,No,No,
+February,Seed Outdoor,Rosemary,No,No,No,
+February,Seed Outdoor,Sage,No,No,No,
+February,Seed Outdoor,Scallions,No,No,No,
+February,Seed Outdoor,Spinach,Yes,Yes,No,
+February,Starts,Artichoke,No,No,No,
+February,Starts,Garlic,No,No,No,
+February,Starts,Onions,No,No,No,
+February,Starts,Peas,No,No,No,
+February,Starts,Scallions,No,No,No,
+January,Seed Indoor,Artichoke,No,No,No,
+January,Seed Indoor,Arugula,No,No,No,
+January,Seed Indoor,Fava Beans,No,No,No,
+January,Seed Indoor,Kale,No,No,No,
+January,Seed Indoor,Leeks,No,No,No,
+January,Seed Indoor,Lettuce,No,No,No,
+January,Seed Indoor,Mustard,No,No,No,
+January,Seed Indoor,Onions,Yes,Yes,No,
+January,Seed Indoor,Peas,No,No,No,
+January,Seed Indoor,Scallions,No,No,No,
+January,Seed Indoor,Spinach,No,No,No,
+January,Seed Outdoor,Chives,No,No,No,
+January,Seed Outdoor,Oregano,No,No,No,
+January,Seed Outdoor,Parsley,No,No,No,
+January,Seed Outdoor,Radish,No,No,No,
+January,Seed Outdoor,Rosemary,No,No,No,
+January,Seed Outdoor,Sage,No,No,No,
+July,Seed Outdoor,Arugula,No,No,No,
+July,Seed Outdoor,Asian greens,Yes,Yes,Yes,
+July,Seed Outdoor,Basil,No,No,No,
+July,Seed Outdoor,Beans,No,No,No,
+July,Seed Outdoor,Beets,Yes,Yes,Yes,Beginning Month
+July,Seed Outdoor,Broccoli,Yes,Yes,Yes,Beginning Month
+July,Seed Outdoor,Brussels Sprouts,No,No,Yes,
+July,Seed Outdoor,Cabbage,No,No,Yes,Early Types
+July,Seed Outdoor,Carrots,Yes,Yes,Yes,Beginning Month
+July,Seed Outdoor,Cauliflower,Yes,Yes,Yes,Beginning Month
+July,Seed Outdoor,Chard,No,No,Yes,
+July,Seed Outdoor,Chives,No,No,No,
+July,Seed Outdoor,Cilantro,No,No,Yes,
+July,Seed Outdoor,Collards,No,No,Yes,Beginning Month
+July,Seed Outdoor,Corn,Yes,Yes,Yes,Beginning Month
+July,Seed Outdoor,Fennel,Yes,Yes,Yes,Mid Month
+July,Seed Outdoor,Kale,Yes,Yes,Yes,
+July,Seed Outdoor,Kohlrabi,No,No,Yes,Beginning Month
+July,Seed Outdoor,Lettuce,No,No,Yes,
+July,Seed Outdoor,Oregano,No,No,No,
+July,Seed Outdoor,Parsley,No,No,No,
+July,Seed Outdoor,Parsnips,No,No,Yes,
+July,Seed Outdoor,Peas,No,No,Yes,
+July,Seed Outdoor,Radish,No,No,Yes,
+July,Seed Outdoor,Rosemary,No,No,No,
+July,Seed Outdoor,Sage,No,No,No,
+July,Seed Outdoor,Scallions,No,No,Yes,
+July,Seed Outdoor,Spinach,No,No,Yes,
+July,Seed Outdoor,Summer Squash,No,No,No,Beginning Month
+July,Seed Outdoor,Turnips,Yes,Yes,Yes,Beginning Month
+June,Seed Outdoor,Arugula,No,No,No,
+June,Seed Outdoor,Asian greens,No,No,No,
+June,Seed Outdoor,Basil,Yes,Yes,No,Beginning Month
+June,Seed Outdoor,Beans,Yes,Yes,No,Beginning Month
+June,Seed Outdoor,Beets,No,No,Yes,
+June,Seed Outdoor,Broccoli,No,No,Yes,
+June,Seed Outdoor,Brussels sprouts*,Yes,Yes,Yes,
+June,Seed Outdoor,Cabbage,Yes,Yes,Yes,"Late Types, Beginning Month"
+June,Seed Outdoor,Carrots,Yes,Yes,Yes,Mid Month
+June,Seed Outdoor,Cauliflower,No,No,Yes,
+June,Seed Outdoor,Chard,No,No,No,
+June,Seed Outdoor,Chives,No,No,No,
+June,Seed Outdoor,Cilantro,No,No,No,
+June,Seed Outdoor,Corn,Yes,Yes,No,
+June,Seed Outdoor,Cucumbers,Yes,Yes,No,Beginning Month
+June,Seed Outdoor,Dill,No,No,No,
+June,Seed Outdoor,Endive,No,No,No,
+June,Seed Outdoor,Kale,No,No,No,
+June,Seed Outdoor,Kohlrabi,Yes,Yes,Yes,
+June,Seed Outdoor,Lettuce,No,No,No,
+June,Seed Outdoor,Melons,Yes,Yes,No,Beginning Month
+June,Seed Outdoor,Oregano,No,No,No,
+June,Seed Outdoor,Parsley,No,No,No,
+June,Seed Outdoor,Parsnips,No,No,Yes,
+June,Seed Outdoor,Pumpkins,Yes,Yes,No,Beginning Month
+June,Seed Outdoor,Rosemary,No,No,No,
+June,Seed Outdoor,Rutabaga,Yes,Yes,No,
+June,Seed Outdoor,Sage,No,No,No,
+June,Seed Outdoor,Scallions,No,No,No,
+June,Seed Outdoor,Squash,Yes,Yes,No,"All Types, Beginning Month"
+June,Seed Outdoor,Turnips,No,No,No,
+June,Starts,Artichoke,No,No,Yes,
+June,Starts,Artichoke,No,No,Yes,
+June,Starts,Basil,Yes,Yes,No,
+June,Starts,Basil,Yes,Yes,No,
+June,Starts,Beans,No,No,No,
+June,Starts,Broccoli,No,No,Yes,
+June,Starts,Broccoli,Yes,Yes,Yes,
+June,Starts,Brussels Sprouts,Yes,Yes,Yes,
+June,Starts,Brussels Sprouts,Yes,Yes,Yes,
+June,Starts,Cabbage,Yes,Yes,Yes,
+June,Starts,Carrots,Yes,Yes,Yes,
+June,Starts,Cauliflower,No,No,Yes,
+June,Starts,Cauliflower,Yes,Yes,Yes,
+June,Starts,Celery,No,No,Yes,
+June,Starts,Collards,Yes,Yes,Yes,
+June,Starts,Corn,Yes,Yes,No,
+June,Starts,Corn,Yes,Yes,No,Beginning Month
+June,Starts,Cucumbers,No,No,No,
+June,Starts,Cucumbers,No,No,No,
+June,Starts,Eggplant,Yes,Yes,No,
+June,Starts,Eggplant,No,No,No,Beginning Month
+June,Starts,Kale,Yes,Yes,Yes,
+June,Starts,Leeks,No,No,No,
+June,Starts,Leeks,No,No,Yes,
+June,Starts,Lettuce,No,No,No,
+June,Starts,Melons,No,No,No,
+June,Starts,Peppers,Yes,Yes,No,
+June,Starts,Peppers,No,No,No,Beginning Month
+June,Starts,Pumpkins,No,No,No,
+June,Starts,Squash,Yes,Yes,No,All Types
+June,Starts,Summer Squash,No,No,No,Beginning Month
+June,Starts,Swiss chard,No,No,No,
+June,Starts,Tomatoes,Yes,Yes,No,
+March,Seed Indoor,Broccoli,No,No,No,
+March,Seed Indoor,Cabbage,No,No,No,
+March,Seed Indoor,Cauliflower,No,No,No,
+March,Seed Indoor,Celeriac,No,No,No,
+March,Seed Indoor,Celery,No,No,No,
+March,Seed Indoor,Eggplant,Yes,Yes,No,
+March,Seed Indoor,Leeks,No,No,No,
+March,Seed Indoor,Lettuce,No,No,No,
+March,Seed Indoor,Peppers,Yes,Yes,No,
+March,Seed Indoor,Scallions,No,No,No,
+March,Seed Indoor,Seed outdoor,No,No,No,
+March,Seed Indoor,Tomatillos,Yes,Yes,No,
+March,Seed Indoor,Tomatoes,Yes,Yes,No,
+March,Seed Outdoor,Arugula,Yes,Yes,No,
+March,Seed Outdoor,Asian greens,No,No,No,
+March,Seed Outdoor,Asparagus,Yes,Yes,No,Crowns
+March,Seed Outdoor,Chard,Yes,Yes,No,
+March,Seed Outdoor,Chives,No,No,No,
+March,Seed Outdoor,Choi,No,No,No,
+March,Seed Outdoor,Cilantro,No,No,No,
+March,Seed Outdoor,Fava Beans,No,No,No,
+March,Seed Outdoor,Garlic,No,No,No,Cloves
+March,Seed Outdoor,Kale,No,No,No,
+March,Seed Outdoor,Mustard greens,Yes,Yes,No,
+March,Seed Outdoor,Oregano,No,No,No,
+March,Seed Outdoor,Parsley,No,No,No,
+March,Seed Outdoor,Peas,Yes,Yes,No,Beginning Month
+March,Seed Outdoor,Potatoes,No,No,No,Tubers
+March,Seed Outdoor,Rosemary,No,No,No,
+March,Seed Outdoor,Sage,No,No,No,
+March,Seed Outdoor,Scallions,No,No,No,
+March,Seed Outdoor,Spinach,Yes,Yes,No,
+March,Starts,Artichoke,No,No,No,
+March,Starts,Arugula,No,No,No,
+March,Starts,Asian greens,No,No,No,
+March,Starts,Broccoli,Yes,Yes,No,
+March,Starts,Cabbage,No,No,No,Early Types
+March,Starts,Chard,No,No,No,
+March,Starts,Choi,No,No,No,
+March,Starts,Cilantro,No,No,No,
+March,Starts,Green onions,No,No,No,
+March,Starts,Jer. Artichoke,Yes,Yes,No,Tubers
+March,Starts,Kale,Yes,Yes,No,
+March,Starts,Lettuce,No,No,No,
+March,Starts,Mustard greens,No,No,No,
+March,Starts,Onion,No,No,No,
+March,Starts,Peas,No,No,No,
+March,Starts,Salad greens,No,No,No,
+March,Starts,Spinach,No,No,No,
+May,Seed Indoor,Basil,No,No,No,
+May,Seed Indoor,Cucumber,No,No,No,
+May,Seed Indoor,Melon,No,No,No,
+May,Seed Outdoor,Arugula,No,No,No,
+May,Seed Outdoor,Asian greens,No,No,No,
+May,Seed Outdoor,Basil,No,No,No,Mid Month
+May,Seed Outdoor,Beans,Yes,Yes,No,Mid Month
+May,Seed Outdoor,Beets,No,No,No,
+May,Seed Outdoor,Broccoli,No,No,No,
+May,Seed Outdoor,Brussels sprouts,Yes,Yes,No,
+May,Seed Outdoor,Cabbage,No,No,No,
+May,Seed Outdoor,Carrots,No,No,No,
+May,Seed Outdoor,Cauliflower,No,No,No,
+May,Seed Outdoor,Celeriac,No,No,Yes,
+May,Seed Outdoor,Celery,No,No,Yes,
+May,Seed Outdoor,Chard,No,No,No,
+May,Seed Outdoor,Chives,No,No,No,
+May,Seed Outdoor,Choi,No,No,No,
+May,Seed Outdoor,Cilantro,No,No,No,
+May,Seed Outdoor,Collards,Yes,Yes,No,
+May,Seed Outdoor,Dill,No,No,No,Mid Month
+May,Seed Outdoor,Fennel,No,No,No,Bulbling
+May,Seed Outdoor,Kale,No,No,No,
+May,Seed Outdoor,Kohlrabi,No,No,No,
+May,Seed Outdoor,Leeks,No,No,Yes,
+May,Seed Outdoor,Lettuce,No,No,No,
+May,Seed Outdoor,Oregano,No,No,No,
+May,Seed Outdoor,Parsley,No,No,No,
+May,Seed Outdoor,Parsnips,Yes,Yes,Yes,
+May,Seed Outdoor,Potatoes,Yes,Yes,No,Tubers
+May,Seed Outdoor,Pumpkin,No,No,No,Mid Month
+May,Seed Outdoor,Radicchio,No,No,No,
+May,Seed Outdoor,Radish,No,No,No,
+May,Seed Outdoor,Rosemary,No,No,No,
+May,Seed Outdoor,Rutabaga,No,No,Yes,
+May,Seed Outdoor,Sage,No,No,No,
+May,Seed Outdoor,Salad greens,No,No,No,
+May,Seed Outdoor,Scallions,No,No,No,
+May,Seed Outdoor,Spinach,Yes,Yes,No,
+May,Seed Outdoor,Summer Squash,No,No,No,Mid Month
+May,Seed Outdoor,Turnips,No,No,No,
+May,Seed Outdoor,Winter Squash,No,No,No,Mid Month
+May,Starts,Artichoke,No,No,No,
+May,Starts,Arugula,No,No,No,
+May,Starts,Basil ,No,No,No,Mid Month
+May,Starts,Beans,No,No,No,
+May,Starts,Broccoli,No,No,No,
+May,Starts,Cabbage,No,No,No,All types
+May,Starts,Carrots,No,No,No,
+May,Starts,Cauliflower,No,No,No,
+May,Starts,Celeriac,No,No,No,
+May,Starts,Celery,No,No,No,
+May,Starts,Chard,No,No,No,
+May,Starts,Collards,No,No,No,
+May,Starts,Corn ,No,No,No,Mid Month
+May,Starts,Cucumbers,No,No,No,Mid Month
+May,Starts,Dill,No,No,No,
+May,Starts,Eggplant,Yes,Yes,Yes,Mid Month
+May,Starts,Fennel,No,No,No,Bulbing
+May,Starts,Jer. Artichoke,No,No,No,
+May,Starts,Kale,No,No,No,
+May,Starts,Kohlrabi,No,No,No,
+May,Starts,Leeks,No,No,No,
+May,Starts,Lettuce,No,No,No,
+May,Starts,Peppers,Yes,Yes,Yes,Mid Month
+May,Starts,Radicchio,No,No,No,
+May,Starts,Salad Greens,No,No,No,
+May,Starts,Scallions,No,No,No,
+May,Starts,Sorrel,No,No,No,
+May,Starts,Spinach,No,No,No,
+May,Starts,Squash ,No,No,No,All types
+May,Starts,Tomatillo,Yes,Yes,Yes,Mid Month
+May,Starts,Tomatoes,Yes,Yes,Yes,Mid Month
+November,Seed Outdoor,Chives,No,No,No,
+November,Seed Outdoor,Cover Crops,Yes,Yes,Yes,Any Cover Crops
+November,Seed Outdoor,Fava beans,No,No,Yes,
+November,Seed Outdoor,Garlic,No,No,Yes,Cloves
+November,Seed Outdoor,Onion,No,No,Yes,Sets
+November,Seed Outdoor,Oregano,No,No,No,
+November,Seed Outdoor,Parsley,No,No,No,
+November,Seed Outdoor,Rosemary,No,No,No,
+November,Seed Outdoor,Sage,No,No,No,
+November,Seed Outdoor,Shallot,No,No,Yes,Bulbs
+October,Seed Outdoor,Chives,No,No,No,
+October,Seed Outdoor,Cover Crops,Yes,Yes,Yes,Any Cover Crops
+October,Seed Outdoor,Fava beans,Yes,Yes,Yes,
+October,Seed Outdoor,Garlic,Yes,Yes,Yes,Cloves
+October,Seed Outdoor,Onion,Yes,Yes,Yes,Sets
+October,Seed Outdoor,Oregano,No,No,No,
+October,Seed Outdoor,Parsley,No,No,No,
+October,Seed Outdoor,Rosemary,No,No,No,
+October,Seed Outdoor,Sage,No,No,No,
+October,Seed Outdoor,Shallots,Yes,Yes,Yes,Bulbs
+October,Starts,Bok Choi,No,No,Yes,
+October,Starts,Cabbage,No,No,Yes,
+October,Starts,Lettuce,No,No,Yes,
+October,Starts,Salad greens,No,No,Yes,
+September,Seed Outdoor,Arugula,Yes,Yes,Yes,
+September,Seed Outdoor,Asian greens,Yes,Yes,Yes,
+September,Seed Outdoor,Beets,No,No,Yes,
+September,Seed Outdoor,Cabbage,No,No,Yes,
+September,Seed Outdoor,Chives,No,No,No,
+September,Seed Outdoor,Cover Crops,Yes,Yes,Yes,Any Cover Crops
+September,Seed Outdoor,Endive,No,No,Yes,
+September,Seed Outdoor,Fava beans,Yes,Yes,Yes,
+September,Seed Outdoor,Garlic,Yes,Yes,Yes,Cloves
+September,Seed Outdoor,Kale,No,No,Yes,
+September,Seed Outdoor,Lettuce,Yes,Yes,Yes,
+September,Seed Outdoor,Onions,Yes,Yes,Yes,Sets
+September,Seed Outdoor,Oregano,No,No,No,
+September,Seed Outdoor,Parsley,No,No,No,
+September,Seed Outdoor,Radish,Yes,Yes,Yes,
+September,Seed Outdoor,Rosemary,No,No,No,
+September,Seed Outdoor,Sage,No,No,No,
+September,Seed Outdoor,Salad greens,Yes,Yes,Yes,
+September,Seed Outdoor,Shallots,Yes,Yes,Yes,Bulb
+September,Starts,Kale,No,No,Yes,
+September,Starts,Lettuce,No,No,Yes,
+September,Starts,Salad greens,No,No,Yes,
+September,Starts,Sorrel,No,No,Yes,
