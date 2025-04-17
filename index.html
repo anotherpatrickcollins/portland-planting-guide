@@ -19,13 +19,13 @@
   <script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
 </head>
 <body class="bg-neutral-100 text-black min-h-screen p-4">
-  <div class="fixed top-0 right-0 w-1/2 h-1/2 -z-10 pointer-events-none">
+  <div class="fixed top-0 right-0 w-1/2 h-1/2 z-0 pointer-events-none">
   <img src="/portland-planting-guide/gardener.svg" alt="Gardener illustration" class="w-full h-full object-contain" />
 </div>
 
   <div x-data="plantApp()" x-init="init" class="max-w-4xl mx-auto">
     <h1 class="mb-2 text-3xl font-bold uppercase tracking-tight underline">Portland Planting Information</h1>
-    <p class="mb-6 text-sm font-mono">A searchable and filterable guide to the timing, methods, and other notes about planting vegetables in Portland, Oregon or West of the Cascades. <a href="/portland-planting-guide/about.html" class="text-pink-500 underline text-sm font-medium hover:text-black self-center">About this page.</a>
+    <p class="mb-6 text-sm font-mono max-w-prose">A searchable and filterable guide to the timing, methods, and other notes about planting vegetables in Portland, Oregon or West of the Cascades. <a href="/portland-planting-guide/about.html" class="text-pink-500 underline text-sm font-medium hover:text-black self-center">About this page.</a>
 </p>
 
     <template x-if="loading">
