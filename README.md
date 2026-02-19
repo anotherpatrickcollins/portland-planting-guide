@@ -27,6 +27,7 @@ The site is intentionally simple:
 Everything runs client-side.
 
 ## Project Structure
+```
 /portland-planting-guide
 │
 ├── index.html        # Main application
@@ -34,6 +35,7 @@ Everything runs client-side.
 ├── data.csv          # Planting data source
 ├── gardener.svg      # Decorative illustration
 └── README.md
+```
 
 ## The Data
 
