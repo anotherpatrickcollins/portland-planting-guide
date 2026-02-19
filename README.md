@@ -1,4 +1,4 @@
-# Portland Planding Guide
+# Portland Planting Guide
 ## About
 
 This site is a lightweight, privacy-friendly tool that lets you:
