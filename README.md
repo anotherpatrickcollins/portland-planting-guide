@@ -1,7 +1,7 @@
 # Portland Planting Guide
 ## About
 
-This site is a lightweight, privacy-friendly tool that lets you:
+This site is a lightweight tool that lets you:
 
 - Search crops quickly
 - Filter by planting timing and method
