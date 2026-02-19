@@ -66,7 +66,13 @@
         <div class="space-y-4">
           <template x-for="(values, key) in options" :key="key">
             <div>
-              <label :for="key" x-text="key" class="block font-bold uppercase text-sm mb-1"></label>
+              <label :for="key" class="block font-bold uppercase text-sm mb-1">
+                <span x-show="key === 'Month'">Planting Month</span>
+                <span x-show="key === 'PlantingMethod'">How You Plant</span>
+                <span x-show="key === 'BestTimesToPlant'">Best Time To Plant</span>
+                <span x-show="key === 'BestMethod'">Best Planting Method</span>
+                <span x-show="key === 'FallHarvest'">For Fall Harvest</span>
+              </label>
               <select :id="key" x-model="filters[key]" @change="updateQueryString" class="w-full border-2 border-black p-2 bg-white text-black font-mono">
                 <option value="">All</option>
                 <template x-for="value in values" :key="value">
