@@ -1,4 +1,4 @@
-Month_To_Plant,Planting_Method,Crop,Best_Time_To_Plant,Best_Way_To_Plant,For_Fall_Harvest,Notes
+Month,PlantingMethod,Crop,BestTimesToPlant,BestMethod,FallHarvest,Notes
 April,Seed Indoor,Basil,No,No,No,
 April,Seed Indoor,Cucumber,No,No,No,
 April,Seed Indoor,Melon,No,No,No,
@@ -438,4 +438,5 @@ September,Starts,Lettuce,No,No,Yes,
 September,Starts,Salad greens,No,No,Yes,
 
 September,Starts,Sorrel,No,No,Yes,
+
 
